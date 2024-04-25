@@ -15,7 +15,10 @@ to find out which player gives higher ROI by considering different factors.
 - metric eg.
   Batsmen who score more runs, better strike rate, coster / run
   Bowler who scored more wickets,cost per wicket etc.
+- Please find out video [!here}(https://drive.google.com/file/d/1wbWu8eSsREiMBOkBvDCDXIDPbG8cgqYm/view?usp=sharing).
 
 # Additional Goal (Future Scope)
 - Find out more datasets which are relevant, clean them and create more complex metric(for eg considering fitness factors)
+
+
   
